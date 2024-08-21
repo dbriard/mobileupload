@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AvaloniaUploadFromMobile.Browser",
   "resources": {
-    "hash": "sha256-OO+lqoVKLICO2ZRaTCj57su7CTngiOILr7K4scRWH+k=",
+    "hash": "sha256-a4nheUfr0M+NzU3gzUDh18g7mXB1Hh7T/gm35K6M3ZE=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.vuomuby7o8.js": "sha256-QtA2wqZ3pcIiRClvAB5YYdiWzF3PC7jt3YXNNMHyPSE="
     },
@@ -12,9 +12,9 @@
       "dotnet.native.wasm": "sha256-uM8Y4zTDuwuqN8In0l/jaSs3LN+jr/3FgsakV+nDjy0="
     },
     "assembly": {
-      "Avalonia.Base.wasm": "sha256-pbjMs4OrICGB06C+8bR4gVFe1A9HztCfkUn7mLVKN3s=",
+      "Avalonia.Base.wasm": "sha256-UoguX0quP40B/kcRDPTlaFjW2k2XR3AZAUofdKRvwv0=",
       "Avalonia.Browser.wasm": "sha256-MATbheHkTdkG/guCn/CWiONaAb2Wzy+CON9/M4rdY1A=",
-      "Avalonia.Controls.wasm": "sha256-QQVbui9XRUSwje80rWYmv/50XddoYHEV+emEcsY8Yys=",
+      "Avalonia.Controls.wasm": "sha256-qMAnVbL9/5pijtyydbtKpxqaJiSIW6t2v9K+XjxlM34=",
       "Avalonia.Dialogs.wasm": "sha256-GT10l/YRrb1wJl26FLrOLLo8w+LSMLMVBh3guDQE57g=",
       "Avalonia.Fonts.Inter.wasm": "sha256-6dj0YcZWbAmzFuf+btD6WIisB8/6K1s8x8uibB+/DIE=",
       "Avalonia.Markup.wasm": "sha256-EmHn8PBtAuOC1KSsvFAkRnc1oTX2565BskP2Er1EORw=",
@@ -25,11 +25,11 @@
       "Avalonia.Themes.Fluent.wasm": "sha256-POikg1mXOlHqeZNuJk3kNH9wLoxLbBgtPh9guiAT/jk=",
       "Avalonia.Vulkan.wasm": "sha256-ED86wmj9cvaPfpJIy/DHoB0qUVUOWgdESwfgHpLOqm0=",
       "AvaloniaUploadFromMobile.Browser.wasm": "sha256-TQZeuH6nK9+otNL977s1FKk1NGrqvtrQhgl5/kLYvF0=",
-      "AvaloniaUploadFromMobile.wasm": "sha256-cOCBBQgKGXmFcCZ065+DtUB0Nlee0AeQEbL2aHQqPFQ=",
+      "AvaloniaUploadFromMobile.wasm": "sha256-0kwXN5Ypt/xo1z9zo366itRJvnOo8vZHbIEuOLy1Xhg=",
       "Azure.Core.wasm": "sha256-pRSKkjIIasI6nE1hV6Rc655O/pgpFxX7rIV/CW2+KBk=",
       "Azure.Storage.Blobs.wasm": "sha256-KV8LP6BO02uUa6ALV5DUjBKfmsLlQyNjn3XiGcVXWOM=",
       "Azure.Storage.Common.wasm": "sha256-FfrGH2S9j6q29GrMPsb86IBkfSHUF3ooJjSmUdVqjE8=",
-      "CommunityToolkit.Mvvm.wasm": "sha256-txBaiuEY9d+FR2Mde1XdikFX7FpUze/6djA7t/Jqgvc=",
+      "CommunityToolkit.Mvvm.wasm": "sha256-mXSrZnDMNscpBBR/gNeyk1yz4xw1/2WjZPNMYKL4QVM=",
       "HarfBuzzSharp.wasm": "sha256-chiM1VFG9uXmyFfgA4lBqkHttz1Z9q8ud9K86SZwI2w=",
       "SkiaSharp.wasm": "sha256-Nbfhta6V1x5Yi3HwHA34t7mzyow3z5MQK2e1j5rB+1Y=",
       "System.Collections.Concurrent.wasm": "sha256-PDJAEYTJGezuh/ZUNQ240M13cfbMI/C/FT+5v43frMA=",
