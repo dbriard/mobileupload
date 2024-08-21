@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AvaloniaUploadFromMobile.Browser",
   "resources": {
-    "hash": "sha256-H5Tsl4yfFZh2OTVESI+dXK5muH+8N0fkMo3U4HzUwTc=",
+    "hash": "sha256-+khWrsV7TvTycEZy2dOpdkY18WdNnLW08/iqsixwjB0=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.vuomuby7o8.js": "sha256-QtA2wqZ3pcIiRClvAB5YYdiWzF3PC7jt3YXNNMHyPSE="
     },
@@ -12,7 +12,7 @@
       "dotnet.native.wasm": "sha256-uM8Y4zTDuwuqN8In0l/jaSs3LN+jr/3FgsakV+nDjy0="
     },
     "assembly": {
-      "Avalonia.Base.wasm": "sha256-pbjMs4OrICGB06C+8bR4gVFe1A9HztCfkUn7mLVKN3s=",
+      "Avalonia.Base.wasm": "sha256-jZZYgsJ8D8w/Z+kIiCGky85dFjrBsWikSJxmyrgiQuQ=",
       "Avalonia.Browser.wasm": "sha256-MATbheHkTdkG/guCn/CWiONaAb2Wzy+CON9/M4rdY1A=",
       "Avalonia.Controls.wasm": "sha256-tIAZ3YOWYB2HUQTAwAK3KLEB75dCH5Fk8ouwrBnJUuY=",
       "Avalonia.Dialogs.wasm": "sha256-GT10l/YRrb1wJl26FLrOLLo8w+LSMLMVBh3guDQE57g=",
@@ -25,11 +25,11 @@
       "Avalonia.Themes.Fluent.wasm": "sha256-POikg1mXOlHqeZNuJk3kNH9wLoxLbBgtPh9guiAT/jk=",
       "Avalonia.Vulkan.wasm": "sha256-ED86wmj9cvaPfpJIy/DHoB0qUVUOWgdESwfgHpLOqm0=",
       "AvaloniaUploadFromMobile.Browser.wasm": "sha256-xyYov7OpFJsCSlxOkEH63DYAPUMQyE2LBxwBZezvux4=",
-      "AvaloniaUploadFromMobile.wasm": "sha256-Bqf4dGt1w/haz24VV9TtghGujnW2teS8IR6Dc+rRAKE=",
+      "AvaloniaUploadFromMobile.wasm": "sha256-V7rtK3w2T8FCXCmH1LkWysxAeArRLBaIzybAXYfSBI0=",
       "Azure.Core.wasm": "sha256-pRSKkjIIasI6nE1hV6Rc655O/pgpFxX7rIV/CW2+KBk=",
       "Azure.Storage.Blobs.wasm": "sha256-KV8LP6BO02uUa6ALV5DUjBKfmsLlQyNjn3XiGcVXWOM=",
       "Azure.Storage.Common.wasm": "sha256-FfrGH2S9j6q29GrMPsb86IBkfSHUF3ooJjSmUdVqjE8=",
-      "CommunityToolkit.Mvvm.wasm": "sha256-i6RONhJQwO2RZGQBgZ4mp7WVB1J1gS0cNiXA8nsHIio=",
+      "CommunityToolkit.Mvvm.wasm": "sha256-JOfc8gRgel67VhzUs3HOflKnl/30LGnBEa6Pqj5hpWE=",
       "HarfBuzzSharp.wasm": "sha256-chiM1VFG9uXmyFfgA4lBqkHttz1Z9q8ud9K86SZwI2w=",
       "SkiaSharp.wasm": "sha256-Nbfhta6V1x5Yi3HwHA34t7mzyow3z5MQK2e1j5rB+1Y=",
       "System.Collections.Concurrent.wasm": "sha256-PDJAEYTJGezuh/ZUNQ240M13cfbMI/C/FT+5v43frMA=",
