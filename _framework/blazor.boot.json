@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AvaloniaUploadFromMobile.Browser",
   "resources": {
-    "hash": "sha256-oS3ERKftUOqnljJaq97izQpQxse5Go+w/uaq5VvyBlk=",
+    "hash": "sha256-OO+lqoVKLICO2ZRaTCj57su7CTngiOILr7K4scRWH+k=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.vuomuby7o8.js": "sha256-QtA2wqZ3pcIiRClvAB5YYdiWzF3PC7jt3YXNNMHyPSE="
     },
@@ -24,12 +24,12 @@
       "Avalonia.Skia.wasm": "sha256-11dbJX4DHKE+tKpCv2x/ZpJ75iBkJ29qud9jGi0O1b4=",
       "Avalonia.Themes.Fluent.wasm": "sha256-POikg1mXOlHqeZNuJk3kNH9wLoxLbBgtPh9guiAT/jk=",
       "Avalonia.Vulkan.wasm": "sha256-ED86wmj9cvaPfpJIy/DHoB0qUVUOWgdESwfgHpLOqm0=",
-      "AvaloniaUploadFromMobile.Browser.wasm": "sha256-xyYov7OpFJsCSlxOkEH63DYAPUMQyE2LBxwBZezvux4=",
-      "AvaloniaUploadFromMobile.wasm": "sha256-reSEYrRmhxnKFymm3MldEJVkOj+0TS/1P7WkYF/1b0M=",
+      "AvaloniaUploadFromMobile.Browser.wasm": "sha256-TQZeuH6nK9+otNL977s1FKk1NGrqvtrQhgl5/kLYvF0=",
+      "AvaloniaUploadFromMobile.wasm": "sha256-cOCBBQgKGXmFcCZ065+DtUB0Nlee0AeQEbL2aHQqPFQ=",
       "Azure.Core.wasm": "sha256-pRSKkjIIasI6nE1hV6Rc655O/pgpFxX7rIV/CW2+KBk=",
       "Azure.Storage.Blobs.wasm": "sha256-KV8LP6BO02uUa6ALV5DUjBKfmsLlQyNjn3XiGcVXWOM=",
       "Azure.Storage.Common.wasm": "sha256-FfrGH2S9j6q29GrMPsb86IBkfSHUF3ooJjSmUdVqjE8=",
-      "CommunityToolkit.Mvvm.wasm": "sha256-JOfc8gRgel67VhzUs3HOflKnl/30LGnBEa6Pqj5hpWE=",
+      "CommunityToolkit.Mvvm.wasm": "sha256-txBaiuEY9d+FR2Mde1XdikFX7FpUze/6djA7t/Jqgvc=",
       "HarfBuzzSharp.wasm": "sha256-chiM1VFG9uXmyFfgA4lBqkHttz1Z9q8ud9K86SZwI2w=",
       "SkiaSharp.wasm": "sha256-Nbfhta6V1x5Yi3HwHA34t7mzyow3z5MQK2e1j5rB+1Y=",
       "System.Collections.Concurrent.wasm": "sha256-PDJAEYTJGezuh/ZUNQ240M13cfbMI/C/FT+5v43frMA=",
